@@ -16,6 +16,8 @@ public class CaledonianLibrary {
     /**
      * @param args the command line arguments
      */
+    
+    //MAIN METHOD USED FOR TESTING IN EARLY INCREMENTS
     public static void main(String[] args) {
         
           LibraryDB db1 = new LibraryDB();
